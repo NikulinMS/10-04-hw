@@ -34,26 +34,16 @@
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
-
+![bacula-dir_1.png](img%2Fbacula-dir_1.png)
+![bacula-dir_2.png](img%2Fbacula-dir_2.png)
+![bacula-dir_3.png](img%2Fbacula-dir_3.png)
+![bacula-dir_4.png](img%2Fbacula-dir_4.png)
+![bacula-dir_5.png](img%2Fbacula-dir_5.png)
+![bacula-fd.png](img%2Fbacula-fd.png)
+![bacula-sd_1.png](img%2Fbacula-sd_1.png)
+![bacula-sd_2.png](img%2Fbacula-sd_2.png)
+![bacula-sd_3.png](img%2Fbacula-sd_3.png)
+![bacula_status.png](img%2Fbacula_status.png)
 
 ---
 
