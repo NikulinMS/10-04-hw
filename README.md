@@ -70,3 +70,4 @@
 ![bacula_etc_status.png](img%2Fbacula_etc_status.png)
 ![rsync_conf_bash.png](img%2Frsync_conf_bash.png)
 ![rsync_result.png](img%2Frsync_result.png)
+![backup_result.png](img%2Fbackup_result.png)
